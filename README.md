@@ -1,0 +1,3 @@
+# Tunnel-VReID-dataset
+
+Tunnel-VReID is a new dataset constructed to evaluate the tunnel vehicle Re-ID performance. The vehicle images in Tunnel-VReID were captured by 9 pairs of 1920 × 1080 HD surveillance cameras in three different tunnels located at Xi’Han Highway, Shaanxi province, China, which crosses the famous Qinling mountains. Tunnel-VReID dataset includes 1,000 pairs of vehicle identities, which consists of 739 cars, 60 midsize cars (e.g., SUV) and 201 trucks. Because of the severe disturbance of poor light condition, fast motion blur and high between-vehicle similarity, the annotation is rather laborious and has been checked for several times.
