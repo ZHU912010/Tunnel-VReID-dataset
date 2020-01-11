@@ -5,7 +5,7 @@ Tunnel-VReID is a new dataset constructed to evaluate the tunnel vehicle Re-ID p
 With the eighteen cameras, the total time duration of the captured video sequences is 340 minutes. Considering the resolution
 of vehicle images, we pick out images of vehicle identities as clear as possible. Each vehicle identity contains two images captured by two non-overlapping cameras. Then we annotate bounding boxes for vehicles in each image that surrounds the whole vehicle body and suppresses the background as much as possible.
 
-Examples of vehicle image pairs from our Tunnel-VReID dataset. The vehicles in tunnels have large intra-variation and little inter-variation. Each column of (a) shows some examples with large intra-variation between same identities of vehicles in each column, and (b) demonstrates some typical vehicles with quite similar appearance but different identities of vehicles in each column.
+Examples of vehicle image pairs from our Tunnel-VReID dataset. The vehicles in tunnels have large intra-variation and little inter-variation. Each column of (a) shows some examples with large intra-variation between same identities of vehicles in each column, and (b) demonstrates some typical vehicles with quite similar appearance but different identities of vehicles in each column. ![image](https://github.com/ZHU912010/Tunnel-VReID-dataset/blob/master/Tunnel-VReID%20dataset.jpg)
 
 The Tunnel-VReID dataset can be downloaded [Here](https://pan.baidu.com/s/1_y4um7atr45Xb1kWNt7zWw).
 
