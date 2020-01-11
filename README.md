@@ -4,3 +4,5 @@ Tunnel-VReID is a new dataset constructed to evaluate the tunnel vehicle Re-ID p
 
 With the eighteen cameras, the total time duration of the captured video sequences is 340 minutes. Considering the resolution
 of vehicle images, we pick out images of vehicle identities as clear as possible. Each vehicle identity contains two images captured by two non-overlapping cameras. Then we annotate bounding boxes for vehicles in each image that surrounds the whole vehicle body and suppresses the background as much as possible.
+
+This dataset proposed in paper [Vehicle re-identification in tunnel scenes via synergistically cascade forests]
